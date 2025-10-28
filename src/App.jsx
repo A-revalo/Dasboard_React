@@ -40,7 +40,7 @@ export default function SenaLandingPage() {
   return (
     <div className="container">
       <header className="header">
-        <h1>SENA CGMLTI</h1>
+        <h1>SENA</h1>
         <nav className="nav-menu">
           <a href="#inicio" className="nav-link">INICIO</a>
           <a href="#programas" className="nav-link">PROGRAMAS</a>
